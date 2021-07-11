@@ -24,3 +24,5 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 */
+
+defined ('ABSPATH') or die('Hey, you can\t access this file. Silly human.');
